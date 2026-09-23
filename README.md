@@ -415,4 +415,8 @@ Be a zero or a Hero. Your choice.
 [![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/network)
 
+<br/>
+
+<img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="72"/>
+
 </div>
