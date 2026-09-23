@@ -397,10 +397,12 @@ Six original knowledge-base documents serve as the project's functional specific
 
 This project is **proprietary** and **All Rights Reserved**.
 
-- No portion of this repository (concept documentation, source code, knowledge base files, or associated materials) may be used, copied, modified, merged, published, distributed, sublicensed, hosted, or sold without prior written permission from the copyright holder.
+- No portion of this repository (concept documentation, source code, knowledge base files, or associated materials) may be used, copied, modified, merged, published, distributed, sublicensed, hosted, or sold without prior written permission from DIATASSO LLC.
 - This repository is published for portfolio and demonstration purposes only. It is not open source, and no license (MIT, Apache, GPL, or otherwise) is granted by publication or by forking/cloning.
-- The **Cyber Gauntlet** name, branding, and associated marks are claimed as trademarks of the copyright holder, whether or not registered, and are not covered by any license grant even if one is later added to this repository.
+- DIATASSO is a Tennessee-registered service mark, TM062328. The **Cyber Gauntlet** name, branding, and associated marks are trademarks of DIATASSO LLC, whether or not separately registered, and are not covered by any license grant even if one is later added to this repository.
 - See [`LICENSE`](LICENSE) for full terms.
+
+**Created and maintained by DIATASSO LLC.**
 
 ---
 
