@@ -5,7 +5,7 @@
 <div align="center">
 
 ![Status](https://img.shields.io/badge/status-concept-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red?style=for-the-badge)
 ![Category](https://img.shields.io/badge/category-cybersecurity-EE3124?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -393,14 +393,24 @@ Cyber Gauntlet validates technical skills through competition while other ecosys
 
 Six original knowledge-base documents serve as the project's functional specifications: `cyber_gauntlet_core_system.md` (mission, philosophy, Lean integration, evaluation framework), `cyber_gauntlet_competition_structure.md` (teams, switching, quests, mentorship, events), `cyber_gauntlet_gamification_system.md` (XP, badges, streaks, leaderboards, boosts, levels), `cyber_gauntlet_challenge_library.md` (mission catalog), `cyber_gauntlet_tracking_system.md` (analytics, logs, reports), and `cyber_gauntlet_state_management.md` (exports, restoration, backups, versioning). These describe the intended system; they are not, by themselves, a deployed application or executable codebase.
 
-## License
+## 📄 License & Model
 
-See [LICENSE](LICENSE).
+This project is **proprietary** and **All Rights Reserved**.
+
+- No portion of this repository (concept documentation, source code, knowledge base files, or associated materials) may be used, copied, modified, merged, published, distributed, sublicensed, hosted, or sold without prior written permission from the copyright holder.
+- This repository is published for portfolio and demonstration purposes only. It is not open source, and no license (MIT, Apache, GPL, or otherwise) is granted by publication or by forking/cloning.
+- The **Cyber Gauntlet** name, branding, and associated marks are claimed as trademarks of the copyright holder, whether or not registered, and are not covered by any license grant even if one is later added to this repository.
+- See [`LICENSE`](LICENSE) for full terms.
 
 ---
 
 <div align="center">
 
 Be a zero or a Hero. Your choice.
+
+### **⭐ Star this repository if Cyber Gauntlet interested you!**
+
+[![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/network)
 
 </div>
