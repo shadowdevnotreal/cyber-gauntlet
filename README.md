@@ -400,23 +400,33 @@ This project is **proprietary** and **All Rights Reserved**.
 - No portion of this repository (concept documentation, source code, knowledge base files, or associated materials) may be used, copied, modified, merged, published, distributed, sublicensed, hosted, or sold without prior written permission from DIATASSO LLC.
 - This repository is published for portfolio and demonstration purposes only. It is not open source, and no license (MIT, Apache, GPL, or otherwise) is granted by publication or by forking/cloning.
 - DIATASSO is a Tennessee-registered service mark, TM062328. The **Cyber Gauntlet** name, branding, and associated marks are trademarks of DIATASSO LLC, whether or not separately registered, and are not covered by any license grant even if one is later added to this repository.
-- See [`LICENSE`](LICENSE) for full terms.
-
-**Created and maintained by DIATASSO LLC.**
+- See [`LICENSE`](LICENSE) for full terms, [`BRANDING.md`](BRANDING.md) for brand usage, and [`TRADEMARKS.md`](TRADEMARKS.md) for trademark terms.
 
 ---
 
 <div align="center">
 
-Be a zero or a Hero. Your choice.
+<img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="120"/>
 
-### **⭐ Star this repository if Cyber Gauntlet interested you!**
+### ⚔️ A DIATASSO LLC concept project
+
+*Be a zero or a Hero. Your choice.*
+
+---
+
+### ⭐ Star this repository if Cyber Gauntlet interested you!
 
 [![GitHub Stars](https://img.shields.io/github/stars/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/shadowdevnotreal/cyber-gauntlet?style=social)](https://github.com/shadowdevnotreal/cyber-gauntlet/network)
 
-<br/>
+**Made with 💜 by the DIATASSO Team**
 
-<img src="assets/diatasso-mark.svg" alt="DIATASSO LLC service mark" width="72"/>
+<a href="https://www.buymeacoffee.com/diatasso" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
+**Created and maintained by DIATASSO LLC**
+
+DIATASSO is a Tennessee-registered service mark, TM062328. The company mark and brand assets are not covered by this repository's license. See [Branding](BRANDING.md) and [Trademarks](TRADEMARKS.md).
 
 </div>
